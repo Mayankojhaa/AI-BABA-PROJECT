@@ -179,9 +179,7 @@ This project is in early development. Contributions and suggestions are welcome!
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
 
-This project is open source and available under the MIT License.
 
 ## 🔮 About AI Baba
 
@@ -190,3 +188,4 @@ AI Baba draws inspiration from the wise storytellers and advisors of ancient tim
 ---
 
 **Created with ❤️ and 🧙‍♂️ wisdom**
+
